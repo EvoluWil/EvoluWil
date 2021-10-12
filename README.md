@@ -1,4 +1,4 @@
-![Willian Rodrigues](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/master/linkedin-cover.svg?raw=true)
+![Willian Rodrigues](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/main/banner-Readme.svg?raw=true)
 
 ## 👋 I'm Willian Rodrigues
 
@@ -6,7 +6,7 @@ Developer FullStack Jr at Econdos Sistemas, Student in system development at Fat
 
 #### 📚 I am currently learning:
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
@@ -28,7 +28,7 @@ Developer FullStack Jr at Econdos Sistemas, Student in system development at Fat
 
 #### ⚡ I studied #DontStopLearning:
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -38,7 +38,7 @@ Developer FullStack Jr at Econdos Sistemas, Student in system development at Fat
 
 #### 🔭 I work with
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
