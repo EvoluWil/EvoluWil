@@ -1,4 +1,4 @@
-![Willian Rodrigues](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/main/banner-Readme.svg?raw=true)
+![Willian Rodrigues](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/main/banner-Readme.png?raw=true)
 
 ## 👋 I'm Willian Rodrigues
 
