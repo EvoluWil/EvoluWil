@@ -1,10 +1,12 @@
-<!-- ![Willian Rodrigues](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/master/linkedin-cover.svg?raw=true)
+![Willian Rodrigues](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/master/linkedin-cover.svg?raw=true)
 
- -->## 👋 I'm Willian Rodrigues
+## 👋 I'm Willian Rodrigues
 
 Developer FullStack Jr at Econdos Sistemas, Student in system development at Fatec in São José dos Campos.
 
 #### 📚 I am currently learning:
+
+<div style="display: flex">
 
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
@@ -22,13 +24,21 @@ Developer FullStack Jr at Econdos Sistemas, Student in system development at Fat
 
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+</div>
+
 #### ⚡ I studied #DontStopLearning:
+
+<div style="display: flex">
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+</div>
+
 #### 🔭 I work with
+
+<div style="display: flex">
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -42,17 +52,12 @@ Developer FullStack Jr at Econdos Sistemas, Student in system development at Fat
 
 ![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
+</div>
+
 <hr/>
 
 <div align="left">
   <a href="http://rick-schultz.com">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
-</div>  
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
