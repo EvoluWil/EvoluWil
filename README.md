@@ -14,7 +14,7 @@ FullStack Developer Jr at Econdos Sistemas, System Analysis and Development stud
 ![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## ⚡ I studied #DontStopLearning:
+## ⚡ I'm currently using #DontStopLearning:
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
