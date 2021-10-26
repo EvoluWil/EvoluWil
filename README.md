@@ -45,3 +45,14 @@ FullStack Developer Jr at Econdos Sistemas, System Analysis and Development stud
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## ➤ My favorite projects
+  
+  <a href="https://github.com/Willian-Rodrigues/marvel-heroes">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=marvel-heroes&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+  
+<a href="https://github.com/Willian-Rodrigues/AmigoSecreto">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=AmigoSecreto&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+  
