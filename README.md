@@ -57,7 +57,6 @@ FullStack Developer Jr at Econdos Sistemas, System Analysis and Development stud
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
+ 
   
-  
-  
-  <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" />
+![visitors](https://profile-counter.glitch.me/Willian-Rodrigues/count.svg)
