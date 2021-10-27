@@ -1,4 +1,4 @@
-![Willian Rodrigues](https://github.com/Willian-Rodrigues/Willian-Rodrigues/blob/main/banner-Readme.png?raw=true)
+![Willian Rodrigues](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 # Hey, I'm Willian Rodrigues! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -20,6 +20,9 @@ FullStack Developer Jr at Econdos Sistemas, System Analysis and Development stud
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🔭 I work with
+<div align="center">
+  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
+</div>
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +38,7 @@ FullStack Developer Jr at Econdos Sistemas, System Analysis and Development stud
 
 ## 📧 Contact me
 
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512982277740)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512982277740) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.rsilva1994@gmail.com)
 
 ## ➤ My stats
@@ -58,5 +61,6 @@ FullStack Developer Jr at Econdos Sistemas, System Analysis and Development stud
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
  
-  
-![visitors](https://profile-counter.glitch.me/Willian-Rodrigues/count.svg)
+<div align="center">
+  <img align="center" src="https://profile-counter.glitch.me/Willian-Rodrigues/count.svg" />
+</div> 
