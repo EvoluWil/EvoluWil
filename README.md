@@ -1,6 +1,6 @@
 ![Willian Rodrigues](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-# Hey, I'm Willian Rodrigues! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Willian Rodrigues!
 
 FullStack Developer Jr at Econdos Sistemas, System Analysis and Development student at [FATEC - Prof. Jessen Vidal in São José dos Campos/SP](https://fatecsjc-prd.azurewebsites.net/).
 
