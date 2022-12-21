@@ -2,7 +2,7 @@
 
 # Hey, I'm Willian Rodrigues!
 
-FullStack Developer Jr at Econdos Sistemas, System Analysis and Development student at [FATEC - Prof. Jessen Vidal in São José dos Campos/SP](https://fatecsjc-prd.azurewebsites.net/).
+Frontend Instructor at [Trybe](https://www.betrybe.com/) and Frontend Developer.
 
 ## 🔭 I work with
 <div align="center">
@@ -45,8 +45,8 @@ FullStack Developer Jr at Econdos Sistemas, System Analysis and Development stud
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=target-crm&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
   
-<a href="https://github.com/cluster-8/esoja-mobile/tree/main">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cluster-8&repo=esoja-mobile&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/Willian-Rodrigues/nestjs-prisma-querybuilder-interface">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=nestjs-prisma-querybuilder-interface&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
