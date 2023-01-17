@@ -25,16 +25,9 @@ Frontend Instructor at [Trybe](https://www.betrybe.com/) and Frontend Developer.
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.rsilva1994@gmail.com)
 
 ## ➤ My stats:
-
-<div align="left">
-  <a href="https://github.com/Willian-Rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true)
+  
 ## ➤ My favorite projects:
-  
-  
   <a href="https://github.com/Willian-Rodrigues/nestjs-prisma-querybuilder-interface">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=nestjs-prisma-querybuilder-interface&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -46,6 +39,3 @@ Frontend Instructor at [Trybe](https://www.betrybe.com/) and Frontend Developer.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
  
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/Willian-Rodrigues/count.svg" />
-</div> 
