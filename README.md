@@ -25,7 +25,7 @@ Frontend Instructor at [Trybe](https://www.betrybe.com/) and Frontend Developer.
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.rsilva1994@gmail.com)
 
 ## ➤ My stats:
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true)
+ ![My GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true)
   
 ## ➤ My favorite projects:
   <a href="https://github.com/Willian-Rodrigues/nestjs-prisma-querybuilder-interface">
