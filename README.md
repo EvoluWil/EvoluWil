@@ -7,8 +7,6 @@ Frontend Instructor at  and Frontend Developer.
 
 I graduated in systems analysis and development at [Fatec in São José dos Campos](https://fatecsjc-prd.azurewebsites.net/)
 
-I work as a frontend and developer
-
 ## 🔭 Hard-Skills
 <div align="center">
   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
