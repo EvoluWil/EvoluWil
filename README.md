@@ -57,13 +57,13 @@ I work as a frontend and developer
 
 
 ## ➤ My stats:
-<a href="https://github.com/Willian-Rodrigues">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true" />
-</a>
-  
   <a href="https://github.com/Willian-Rodrigues">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&theme=radical" />
-</a>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true" />
+  </a>
+
+    <a href="https://github.com/Willian-Rodrigues">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&theme=radical" />
+  </a>
  
   
 ## ➤ Most Value Projects:
