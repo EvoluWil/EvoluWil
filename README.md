@@ -52,16 +52,16 @@ I graduated in systems analysis and development at [Fatec in São José dos Camp
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianrsilva/)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512982277740) 
 
+## ➤ Languages:
+<a href="https://github.com/Willian-Rodrigues">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&theme=radical" />
+</a>
 
 ## ➤ My stats:
   <a href="https://github.com/Willian-Rodrigues">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true" />
 </a>
-
-  <a href="https://github.com/Willian-Rodrigues">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&theme=radical" />
-</a>
- 
+  
   
 ## ➤ Most Value Projects:
   <a href="https://github.com/Willian-Rodrigues/nestjs-prisma-querybuilder-interface">
