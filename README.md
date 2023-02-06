@@ -1,4 +1,4 @@
-![Willian Rodrigues](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<!-- ![Willian Rodrigues](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
 
 
 # Hey, I'm Willian Rodrigues!
@@ -6,6 +6,8 @@
 Frontend Instructor at [Trybe](https://www.betrybe.com) and Frontend Developer.
 
 I graduated in systems analysis and development at [Fatec in São José dos Campos](https://fatecsjc-prd.azurewebsites.net/)
+
+I currently study content related to mobile development with react-native and follow updates from the entire react/next.js universe
 
 ## 🔭 Hard-Skills
 <div align="center">
