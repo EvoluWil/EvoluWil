@@ -49,26 +49,26 @@ I currently study content related to mobile development with react-native and fo
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
-## ➤ Languages:
-<a href="https://github.com/EvoluWil">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EvoluWil&layout=compact&theme=radical" />
-</a>
-
+    
 ## ➤ My stats:
-  <a href="https://github.com/EvoluWil">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EvoluWil&theme=radical&show_icons=true" />
+<div style="display: flex">
+<a href="https://github.com/EvoluWil">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EvoluWil&theme=radical&show_icons=true" />
 </a>
-  
+<a href="https://github.com/EvoluWil">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EvoluWil&layout=compact&theme=radical" />
+</a>
+</div>
   
 ## ➤ Most Value Projects:
+<div style="display: flex">
   <a href="https://github.com/EvoluWil/nestjs-prisma-querybuilder-interface">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EvoluWil&repo=nestjs-prisma-querybuilder-interface&theme=radical" />
-</a>
-  
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EvoluWil&repo=nestjs-prisma-querybuilder-interface&theme=radical" />
+  </a>
   <a href=" https://github.com/EvoluWil/face-detection">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EvoluWil&repo=face-detection&theme=radical" />
-</a>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EvoluWil&repo=face-detection&theme=radical" />
+  </a>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
  
