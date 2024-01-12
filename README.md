@@ -5,9 +5,9 @@
 
 Frontend Instructor at [Trybe](https://www.betrybe.com) and Frontend Developer.
 
-I graduated in Analise e Desenvolvimento de Sistemas at [Fatec in São José dos Campos](https://fatecsjc-prd.azurewebsites.net/)
+I'm graduated in Analise e Desenvolvimento de Sistemas at [Fatec in São José dos Campos](https://fatecsjc-prd.azurewebsites.net/)
 
-I currently study content related to mobile development with react-native and follow updates from the entire react/next.js universe
+I'm currently study content related to mobile development with react-native and follow updates from the entire react/next.js universe
 
 ## 🔭 Hard-Skills
 <div align="center">
