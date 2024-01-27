@@ -3,7 +3,7 @@
 
 # Hey, I'm Willian Rodrigues!
 
-Frontend Instructor and Frontend Developer.
+Frontend Instructor and Developer.
 
 I'm graduated in Analise e Desenvolvimento de Sistemas at [Fatec in São José dos Campos](https://fatecsjc-prd.azurewebsites.net/)
 
