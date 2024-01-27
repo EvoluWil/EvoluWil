@@ -5,7 +5,7 @@
 
 Frontend Instructor and Developer.
 
-I'm graduated in Analise e Desenvolvimento de Sistemas at [Fatec in São José dos Campos](https://fatecsjc-prd.azurewebsites.net/)
+I'm graduated in Analise e Desenvolvimento de Sistemas at [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/)
 
 I'm currently study content related to mobile development with react-native and follow updates from the entire react/next.js universe
 
