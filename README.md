@@ -3,7 +3,7 @@
 
 # Hey, I'm Willian Rodrigues!
 
-Frontend Instructor at [Trybe](https://www.betrybe.com) and Frontend Developer.
+Frontend Instructor and Frontend Developer.
 
 I'm graduated in Analise e Desenvolvimento de Sistemas at [Fatec in São José dos Campos](https://fatecsjc-prd.azurewebsites.net/)
 
